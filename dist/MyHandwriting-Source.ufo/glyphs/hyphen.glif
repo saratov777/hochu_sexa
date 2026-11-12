@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hyphen" format="2">
+  <advance width="297"/>
+  <unicode hex="002D"/>
+  <outline>
+    <contour>
+      <point x="206.14" y="123.83" type="curve" smooth="yes"/>
+      <point x="240.72" y="121.68"/>
+      <point x="274.99" y="115.14"/>
+      <point x="309.68" y="114.61" type="curve" smooth="yes"/>
+      <point x="325.98" y="114.36"/>
+      <point x="341.34" y="122.68"/>
+      <point x="337.95" y="141.55" type="curve" smooth="yes"/>
+      <point x="333.75" y="164.97"/>
+      <point x="298.83" y="159.71"/>
+      <point x="280.84" y="161.49" type="curve" smooth="yes"/>
+      <point x="224.11" y="167.12"/>
+      <point x="161.1" y="180.33"/>
+      <point x="107.59" y="153.5" type="curve" smooth="yes"/>
+      <point x="97.88" y="148.63"/>
+      <point x="84.33" y="141.9"/>
+      <point x="80.95" y="130.66" type="curve" smooth="yes"/>
+      <point x="76.24" y="114.97"/>
+      <point x="89.72" y="98.97"/>
+      <point x="106.13" y="101.68" type="curve" smooth="yes"/>
+      <point x="115.79" y="103.27"/>
+      <point x="127.57" y="114.0"/>
+      <point x="138.16" y="117.64" type="curve" smooth="yes"/>
+      <point x="159.87" y="125.12"/>
+      <point x="183.47" y="125.23"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.myhandwriting.centerline</key>
+      <string>M102.3 123.8 C159.3 167.1 250.5 136.3 316.0 137.1</string>
+      <key>com.myhandwriting.closed</key>
+      <array>
+        <false/>
+      </array>
+    </dict>
+  </lib>
+</glyph>

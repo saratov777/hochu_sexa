@@ -1,0 +1,19 @@
+# Variation without randomness: which written variant appears depends on the
+# previous glyph, so repeated letters/digits do not look stamped.
+@setA = [uni0430 uni0432 uni0434 uni0451 uni0437 uni0439 uni043B uni043D uni043F uni0441 uni0443 uni0445 uni0447 uni0449 uni044B uni044D uni044F zero one two three four five six seven eight nine];
+@setB = [uni0431 uni0433 uni0435 uni0436 uni0438 uni043A uni043C uni043E uni0440 uni0442 uni0444 uni0446 uni0448 uni044A uni044C uni044E space];
+@dig = [zero one two three four five six seven eight nine];
+@digAlt = [zero.alt one.alt two.alt three.alt four.alt five.alt six.alt seven.alt eight.alt nine.alt];
+@b1 = [uni0438 uni0430 uni0432 uni0443];
+@a1 = [uni0438.alt1 uni0430.alt1 uni0432.alt1 uni0443.alt1];
+@b2 = [uni0438 uni0430 uni0432];
+@a2 = [uni0438.alt2 uni0430.alt2 uni0432.alt2];
+feature calt {
+  sub @setB @b2' by @a2;
+  sub @setA @b1' by @a1;
+  sub @setA @dig' by @digAlt;
+} calt;
+feature salt {
+  sub @b1 by @a1;
+  sub @dig by @digAlt;
+} salt;

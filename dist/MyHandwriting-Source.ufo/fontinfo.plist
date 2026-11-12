@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <integer>902</integer>
+    <key>capHeight</key>
+    <integer>752</integer>
+    <key>copyright</key>
+    <string>Handwriting and font: the owner of the handwriting sample.</string>
+    <key>descender</key>
+    <integer>-330</integer>
+    <key>familyName</key>
+    <string>MyHandwriting</string>
+    <key>italicAngle</key>
+    <real>-25.0</real>
+    <key>openTypeHheaAscender</key>
+    <integer>1180</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-570</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>0</integer>
+    <key>openTypeNameDescription</key>
+    <string>Personal Russian handwriting, extracted as single-stroke centerlines from a scanned sample and stroked with a round pen.</string>
+    <key>openTypeOS2CodePageRanges</key>
+    <array>
+      <integer>2</integer>
+    </array>
+    <key>openTypeOS2Type</key>
+    <array/>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>1180</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-570</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>0</integer>
+    <key>openTypeOS2VendorID</key>
+    <string>NONE</string>
+    <key>openTypeOS2WinAscent</key>
+    <integer>1180</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>570</integer>
+    <key>postscriptUnderlinePosition</key>
+    <integer>-150</integer>
+    <key>postscriptUnderlineThickness</key>
+    <integer>45</integer>
+    <key>styleName</key>
+    <string>Regular</string>
+    <key>unitsPerEm</key>
+    <integer>1000</integer>
+    <key>versionMajor</key>
+    <integer>1</integer>
+    <key>versionMinor</key>
+    <integer>0</integer>
+    <key>xHeight</key>
+    <integer>320</integer>
+  </dict>
+</plist>
