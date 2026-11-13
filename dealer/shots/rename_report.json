@@ -1,0 +1,80 @@
+{
+ "pages": [
+  "Прототип сайта «АвтоЯсно»",
+  "Brand Book",
+  "Схемы страниц (вайрфреймы)"
+ ],
+ "wireframeFrames": [
+  "Frame 1",
+  "Frame 2"
+ ],
+ "renamed": {
+  "Прототип сайта «АвтоЯсно»": {
+   "Frame": 28,
+   "Group": 126,
+   "Rectangle": 162,
+   "Text": 315,
+   "Line": 36,
+   "Vector": 9
+  },
+  "Brand Book": {
+   "Frame": 19,
+   "Group": 144,
+   "Rectangle": 150,
+   "Text": 350,
+   "Line": 19,
+   "Vector": 12,
+   "Ellipse": 5
+  },
+  "Схемы страниц (вайрфреймы)": {
+   "Frame": 2,
+   "Group": 86,
+   "Rectangle": 111,
+   "Line": 26,
+   "Text": 127,
+   "Ellipse": 4
+  }
+ },
+ "unchanged": {
+  "Прототип сайта «АвтоЯсно»": "OK (676 слоёв)",
+  "Brand Book": "OK (699 слоёв)",
+  "Схемы страниц (вайрфреймы)": "OK (356 слоёв)"
+ },
+ "badNames": [],
+ "pagesAfter": [
+  "Прототип сайта «АвтоЯсно»",
+  "Brand Book",
+  "Схемы страниц (вайрфреймы)"
+ ],
+ "flow": [
+  {
+   "nodeId": "1:1382",
+   "name": "Сайт АвтоЯсно"
+  }
+ ],
+ "reactions": 14,
+ "topFrames": {
+  "Прототип сайта «АвтоЯсно»": [
+   "Frame 1",
+   "Frame 10",
+   "Frame 19",
+   "Frame 23",
+   "Frame 26"
+  ],
+  "Brand Book": [
+   "Frame 1",
+   "Frame 2",
+   "Frame 3",
+   "Frame 4",
+   "Frame 6",
+   "Frame 7",
+   "Frame 17",
+   "Frame 19"
+  ],
+  "Схемы страниц (вайрфреймы)": [
+   "Frame 1",
+   "Frame 2"
+  ]
+ },
+ "leftovers": 0
+}
